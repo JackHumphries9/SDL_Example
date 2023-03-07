@@ -23,7 +23,7 @@ I wanted to learn C++ and CMake and I wanted to learn SDL, so I made this projec
 
 ## Getting Started
 
-This project is written in C and heavily relies on GCC to compile and run. (You can use Clang if you want, but I haven't tested it.)
+This project is written in C++.
 
 To get a local copy up and running follow these simple steps.
 
